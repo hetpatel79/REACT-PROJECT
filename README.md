@@ -27,7 +27,7 @@ A simple, interactive React application built with Vite that demonstrates a basi
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/ihetpatel79/react-sum-calculator.git
+   git clone https://github.com/hetpatel79/react-sum-calculator.git
    cd react-sum-calculator
    ```
 
